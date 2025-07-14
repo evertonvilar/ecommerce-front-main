@@ -28,8 +28,3 @@
 ---
 
 ## 🎲 Rodando o Front end
-
-##### Clonar o repositório
-
-```bash
-git clone [https://github.com/letticiamoura/ecommerce-front.git](https://github.com/letticiamoura/ecommerce-front.git)
